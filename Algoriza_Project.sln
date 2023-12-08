@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoriza_Project", "Algoriza_Project.csproj", "{6132D884-A570-43B9-A58F-44D07D73C904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6132D884-A570-43B9-A58F-44D07D73C904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6132D884-A570-43B9-A58F-44D07D73C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6132D884-A570-43B9-A58F-44D07D73C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6132D884-A570-43B9-A58F-44D07D73C904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0F66CE-618C-4E1E-A3F0-D7A4F0EEA4BC}
+	EndGlobalSection
+EndGlobal
